@@ -2,4 +2,4 @@
 Olá Mundo!
 
 Repositório da aula sobre GitHub!
-Conte
+alterei o readme
